@@ -1,0 +1,18 @@
+
+            if a >= 4 <= 4:
+                mes = ":( :( :("
+                e4.play(0)
+                if a >= rte:
+                    print("WARNING: SYSTEM FUCKED!!!")
+                    sys.exit(1)
+        if x5_ <= -1:
+            x5_ = 0
+            t = 0
+            a += 0.01
+            if a >= 4 <= 4:
+                mes = ":("
+                e3.play(0)
+                clock.tick(uniform(0.128, 60))
+                if a >= rte:
+                    print("WARNING: SYSTEM CORRUPT!")
+                    sys.exit(1)
